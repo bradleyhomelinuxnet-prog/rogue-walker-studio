@@ -1,0 +1,12 @@
+{
+  "name": "rogue-walker-studio",
+  "owner": { "name": "Hollywood Rogue Ventures LLC" },
+  "plugins": [
+    {
+      "name": "rogue-walker-studio",
+      "source": "./",
+      "description": "Walker reels from footage you own, clip captioning, house looks, FilmCraft MCP and credit-budget planning.",
+      "version": "1.3.8"
+    }
+  ]
+}

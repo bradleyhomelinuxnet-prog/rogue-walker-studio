@@ -1,0 +1,432 @@
+{
+ "title": "LIVE ON TIME · THE DEPOSITION",
+ "output": "TheDeposition_276",
+ "fps": 24,
+ "width": 1280,
+ "height": 720,
+ "clip_frames": 330,
+ "plate_frames": 177,
+ "sources_dir": "src",
+ "voices_dir": "vo",
+ "work_dir": "build",
+ "speakers": {
+  "NATORI": "#F0C89E",
+  "ROGUE": "#9EC9F0"
+ },
+ "bed": "wind",
+ "bell": "synth",
+ "open_plate": {
+  "lines": [
+   "LIVE ON TIME",
+   "THE DEPOSITION",
+   "nineteen tapes · one walk · there and back",
+   "Natori & Rogue"
+  ],
+  "sizes": [
+   22,
+   54,
+   20,
+   18
+  ]
+ },
+ "end_plate": {
+  "lines": [
+   "19138 · 83191",
+   "You are reading this.",
+   "P(Freedom | Evidence) = 1"
+  ],
+  "sizes": [
+   40,
+   26,
+   20
+  ]
+ },
+ "pairs": {
+  "1": {
+   "src": "walk_river.mp4",
+   "flip": false,
+   "start": 0.6
+  },
+  "2": {
+   "src": "walk_rust_moon.mp4",
+   "flip": false,
+   "start": 0.4
+  },
+  "3": {
+   "src": "walk_quarry.mp4",
+   "flip": true,
+   "start": 0.4
+  },
+  "4": {
+   "src": "walk_mud.mp4",
+   "flip": false,
+   "start": 0.4
+  },
+  "5": {
+   "src": "climb_causeway.mp4",
+   "flip": false,
+   "start": 0.4
+  },
+  "6": {
+   "src": "walk_open_doors.mp4",
+   "flip": false,
+   "start": 0.4
+  },
+  "7": {
+   "src": "walk_assyria.mp4",
+   "flip": false,
+   "start": 0.4
+  },
+  "8": {
+   "src": "walk_walls.mp4",
+   "flip": false,
+   "start": 0.4
+  },
+  "9": {
+   "src": "walk_frontier.mp4",
+   "flip": false,
+   "start": 0.4
+  }
+ },
+ "axis": {
+  "src": "front_black_flat.mp4",
+  "start": 0.6,
+  "reflection": true,
+  "delay_frames": 12
+ },
+ "loop_back": true,
+ "clips": [
+  {
+   "n": 1,
+   "title": "THE NAME",
+   "era": "T−138:00 · TAPE 01 · BEFORE YEAR ONE",
+   "log": "VOCAL BASELINE 19.000 Hz — INSTRUMENT ERROR",
+   "lines": [
+    {
+     "who": "NATORI",
+     "text": "Natori. Saira. Evren.\nPhoenix, Traveler, Cosmos."
+    },
+    {
+     "who": "ROGUE",
+     "text": "State it for the record."
+    },
+    {
+     "who": "NATORI",
+     "text": "Read it forward, read it back.\nMy name is a map."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "YEAR ONE",
+   "era": "AM 1 · 3895 BC · CLOCK START",
+   "lines": [
+    {
+     "who": "ROGUE",
+     "text": "Nothing begins in 3895 BC."
+    },
+    {
+     "who": "NATORI",
+     "text": "Year One isn't when the scenery was built.\nIt's when the clock switched on."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "THE CLAY RECORD",
+   "era": "AM 966 · 2929 BC · PHOENIX 7 · 138 × 7",
+   "lines": [
+    {
+     "who": "NATORI",
+     "text": "One thirty-eight. Two seventy-six.\nUp to 2929 BC."
+    },
+    {
+     "who": "ROGUE",
+     "text": "Reads the same both directions."
+    },
+    {
+     "who": "NATORI",
+     "text": "The pattern was already signing its work."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "THE GREAT FLOOD",
+   "era": "AM 1656 · 2239 BC · PHOENIX 12 · 138 × 12",
+   "lines": [
+    {
+     "who": "ROGUE",
+     "text": "Floods are regional."
+    },
+    {
+     "who": "NATORI",
+     "text": "Civilizations don't fall.\nThey get overwritten on schedule."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "THE AXIS OF STONE",
+   "era": "AM 1080 · 2815 BC · PYRAMID TOPPED",
+   "log": "AMBIENT RESONANCE 16.2 Hz — SOURCE UNLOCATED",
+   "lines": [
+    {
+     "who": "ROGUE",
+     "text": "A tomb, in a chronology of disasters?"
+    },
+    {
+     "who": "NATORI",
+     "text": "Not a tomb. A terminal.\nAsk them why a coffin is tuned."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "THE OVERWRITING",
+   "era": "AM 2622 · 1273 BC · PHOENIX 19 · 138 × 19 ★",
+   "lines": [
+    {
+     "who": "ROGUE",
+     "text": "Every culture has a flood story."
+    },
+    {
+     "who": "NATORI",
+     "text": "The same story. Same rungs. Same number.\nAt some point, coincidence becomes memo."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "THE NUMBERS",
+   "era": "AM 3312 · 583 BC · PHOENIX 24 · 138 × 24",
+   "lines": [
+    {
+     "who": "ROGUE",
+     "text": "Thales predicted an eclipse.\nThat's astronomy."
+    },
+    {
+     "who": "NATORI",
+     "text": "In 585 BC, with no model? He remembered —\nand dressed it up as deduction."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "THE LIBRARIES",
+   "era": "AM 3588 · 307 BC · PHOENIX 26 · 138 × 26",
+   "lines": [
+    {
+     "who": "NATORI",
+     "text": "Alexandria shelved it in the open.\nQumran hid it in jars."
+    },
+    {
+     "who": "ROGUE",
+     "text": "Only the jars survived."
+    },
+    {
+     "who": "NATORI",
+     "text": "Bury it. Encode it. Say it twice."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "THE PLAGUE DOORS",
+   "era": "AM 5244 · AD 1350 · PHOENIX 38 · 138 × 38",
+   "lines": [
+    {
+     "who": "ROGUE",
+     "text": "The plague was a bacterium."
+    },
+    {
+     "who": "NATORI",
+     "text": "The bacterium was the delivery.\nThe method is improv."
+    },
+    {
+     "who": "ROGUE",
+     "text": "…The schedule is scripture."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "title": "THE SPHERICAL MIRROR",
+   "era": "AXIS · T−19:00 · 43rd SITTING",
+   "log": "TWO BASELINES DETECTED — BOTH 19.000 Hz",
+   "lines": [
+    {
+     "who": "NATORI",
+     "text": "This is the center. Nine up. Nine down."
+    },
+    {
+     "who": "NATORI",
+     "text": "When did you learn the session\nwas 138 minutes?"
+    },
+    {
+     "who": "ROGUE",
+     "text": "I don't remember the briefing."
+    },
+    {
+     "who": "NATORI",
+     "text": "There's never a briefing."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "title": "THE REDISCOVERY",
+   "era": "AM 5382 · AD 1488 · PHOENIX 39 · 138 × 39",
+   "lines": [
+    {
+     "who": "ROGUE",
+     "text": "The Renaissance. The knowledge came back."
+    },
+    {
+     "who": "NATORI",
+     "text": "It never left. He wrote it backwards —\nreadable only in a mirror. Sound familiar?"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "title": "THE SUPPRESSION",
+   "era": "AM 3847 · 48 BC · TRANSIT",
+   "lines": [
+    {
+     "who": "ROGUE",
+     "text": "Why keep the folder? Why not burn it?"
+    },
+    {
+     "who": "NATORI",
+     "text": "Some part of the system wants to be caught.\nYou've been guarding the map."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "title": "THE THEOREM",
+   "era": "TRANSIT · P(F|E)",
+   "log": "DAMPENING FIELD — DEVICE DECORATIVE",
+   "lines": [
+    {
+     "who": "ROGUE",
+     "text": "State it as math."
+    },
+    {
+     "who": "NATORI",
+     "text": "P of freedom, given evidence, equals one."
+    },
+    {
+     "who": "ROGUE",
+     "text": "And the condition?"
+    },
+    {
+     "who": "NATORI",
+     "text": "Met."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "title": "THE MODERN VECTORS",
+   "era": "AM 5796 · AD 1902 · PHOENIX 42 · 138 × 42",
+   "lines": [
+    {
+     "who": "ROGUE",
+     "text": "Saint-Pierre. Twenty-eight thousand dead.\nOne lived."
+    },
+    {
+     "who": "NATORI",
+     "text": "The man locked in the stone cell.\nReal fire. Right on the rung."
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "title": "THE CHAMBER, RETURNED",
+   "era": "AM 1080 · 2815 BC · AXIS",
+   "log": "16.2 Hz — SOURCE: AXIS",
+   "lines": [
+    {
+     "who": "ROGUE",
+     "text": "One sentence a skeptic could file."
+    },
+    {
+     "who": "NATORI",
+     "text": "A tuning fork struck once, ringing six\nthousand years. Not escape. Continuity."
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "title": "THE DELUGE INVERTED",
+   "era": "AM 1656 · 2239 BC · TRANSIT",
+   "lines": [
+    {
+     "who": "ROGUE",
+     "text": "And the ones who don't carry over?"
+    },
+    {
+     "who": "NATORI",
+     "text": "Scattered, not destroyed. Each time, fewer\nremember. Someone is reading these words right now."
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "title": "THE RECORD, DIGITIZED",
+   "era": "AM 5920 · AD 2026 · NOW",
+   "lines": [
+    {
+     "who": "ROGUE",
+     "text": "A man with a spreadsheet and a website."
+    },
+    {
+     "who": "NATORI",
+     "text": "Clay, scroll, codex, upload. Same clock."
+    },
+    {
+     "who": "ROGUE",
+     "text": "Page forty-something. Flagged fringe."
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "title": "THE CAPSTONE",
+   "era": "AM 6000 · AD 2106 · CAPSTONE",
+   "log": "AM 5934 · AD 2040 · PHOENIX 43",
+   "lines": [
+    {
+     "who": "ROGUE",
+     "text": "2040. Plain language."
+    },
+    {
+     "who": "NATORI",
+     "text": "Something turns. The rung is fixed, and it is close.\nForty-third burning — then sixty-six years to the cap."
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "title": "THE NAME RETURNS",
+   "era": "T−0:00 · TAPE 19 · 43rd SITTING",
+   "lines": [
+    {
+     "who": "NATORI",
+     "text": "It isn't my name that belongs at the end.\nIt's yours."
+    },
+    {
+     "who": "NATORI",
+     "text": "Say it, and the condition closes."
+    },
+    {
+     "who": "ROGUE",
+     "text": "My name is Rogue.",
+     "mirror": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "filmcraft": {
+      "command": "/Applications/FilmCraft.app/Contents/MacOS/filmcraft-cli",
+      "args": ["mcp", "--bridge", "127.0.0.1:9876"]
+    }
+  }
+}

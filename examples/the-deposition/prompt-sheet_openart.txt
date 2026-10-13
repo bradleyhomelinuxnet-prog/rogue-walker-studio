@@ -1,0 +1,98 @@
+THE DEPOSITION · OPENART PASTE SHEET v1
+19 fifteen-second walker clips + 1 five-second insert = 2,950 credits exactly
+=====================================================================
+
+BUDGET (OpenArt prices quoted 2026-10-13, balance 2,950)
+  19 × PixVerse V6 · 15 s · 540p · 16:9 · audio off   = 150 each = 2,850
+   1 × Wan 3.0     ·  5 s · 480p · 16:9 (default)     =            100
+                                                        total   2,950
+  Image-to-video costs the same as text-to-video on PixVerse.
+
+HOW TO FIRE (on openart.ai, yourself)
+  - Use IMAGE-TO-VIDEO with a Natori + Rogue still as the first frame
+    (any of your Sep 25–26 walk stills), so the faces stay theirs.
+    Text-to-video works too, but the faces will drift.
+  - Settings: PixVerse V6 · 15 s · 540p · 16:9 · audio OFF.
+    Captions and the bed go on afterward, free, in the edit.
+  - Fire clip 01 first, look at it, then do the rest.
+  - Changing anything (1080p = 450, audio on) breaks the exact-to-zero math.
+
+CHARACTER LINE (already inside every prompt)
+  Natori: auburn hair loose, charcoal leather jacket, faint gold throat-glyphs.
+  Rogue: swept silver hair, white beard, long black coat, cold blue eye-glow.
+
+HOUSE LOOK (already inside every prompt)
+  Painterly bioluminescent noir: teal shadows, amber edge light, fine grain.
+  Horizon low, upper third open sky (room for captions), no text, no cuts.
+
+RIG
+  01–09 walk LEFT → RIGHT · 10 walk STRAIGHT AT CAMERA · 11–19 walk RIGHT → LEFT
+  Every clip ends on its opening composition so it loops.
+
+---------------------------------------------------------------------
+01 · THE NAME · before Year One                      → L→R
+Painterly bioluminescent noir, teal shadows, amber edge light, fine film grain. One continuous side-scrolling lateral tracking shot, left to right, no cuts, horizon low, upper third open pale sky lit by a sourceless white glow. Natori (auburn hair, charcoal leather jacket, faint gold throat-glyphs) and Rogue (silver hair, white beard, long black coat, cold blue eye-glow) walk left to right across an open grass plain at an even pace. Midway they pass a lone steel interrogation table standing in the grass, a closed manila folder on it; neither looks at it. Calm, uncanny, wind in the grass. No text. Ends on the opening composition.
+
+02 · YEAR ONE · AM 1 · 3895 BC                        → L→R
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, left to right, no cuts, horizon low, upper third open copper sky. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk left to right through ankle-deep standing water that shivers with each step; far behind them a stone ridge splits open silently and a seam of light runs along the horizon. The first second of time. No text. Ends on the opening composition.
+
+03 · THE CLAY RECORD · AM 966 · 2929 BC               → L→R
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, left to right, no cuts, horizon low, upper third open dusk sky. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk left to right past a Sumerian scribe yard: rows of clay tablets drying on reed mats, scribes in linen pressing styluses, tall jars sealed with black bitumen glinting in lamplight. No readable text. Ends on the opening composition.
+
+04 · THE GREAT FLOOD · AM 1656 · 2239 BC              → L→R
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, left to right, no cuts, horizon low, upper third open storm-bruised sky. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) wade left to right along a half-drowned palace wall; faded bull-leaper frescoes slide past beneath the waterline, flood water to the horizon, cyan light moving inside the swells. No text. Ends on the opening composition.
+
+05 · THE AXIS OF STONE · AM 1080 · 2815 BC            → L→R
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, left to right, no cuts, horizon low, upper third open night sky. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk left to right along the Giza causeway; behind them the Great Pyramid stands whole, cased in polished white limestone, a low red disc hanging behind its shoulder, a faint hum shimmering the air. No text. Ends on the opening composition.
+
+06 · THE OVERWRITING · AM 2622 · 1273 BC · Phoenix 19 → L→R
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, left to right, no cuts, horizon low, upper third open smoke-red sky. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk left to right along the harbour road of Ugarit as the city burns; out at sea the striped sails of the Sea Peoples crowd the horizon, embers drifting across frame. No text. Ends on the opening composition.
+
+07 · THE NUMBERS · AM 3312 · 585 BC                   → L→R
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, left to right, no cuts, horizon low, upper third open sky with the sun going dark into a total eclipse. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk left to right along a ridge above a battlefield where two bronze-armoured armies slowly lower their spears and stare upward. No text. Ends on the opening composition.
+
+08 · THE LIBRARIES · AM 3588 · 307 BC                 → L→R
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, left to right, no cuts, horizon low, upper third open dusk sky through tall columns. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk left to right through an open colonnade of scroll shelves at Alexandria; smoke gathers at the far end, and as they walk the colonnade gives way to pale desert cliffs riddled with caves. No text. Ends on the opening composition.
+
+09 · THE PLAGUE DOORS · AM 5244 · AD 1350             → L→R
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, left to right, no cuts, horizon low, upper third open sky under a dull blood moon. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk left to right down a Florentine street of shuttered doors marked with chalk crosses; a beaked plague doctor passes the other way, a dark mist rolling low over the cobbles. No text. Ends on the opening composition.
+
+10 · THE SPHERICAL MIRROR · AXIS                      → STRAIGHT AT CAMERA
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Endless-runner front camera gliding backward at walking pace, no cuts, horizon low, upper third open black sky with stars. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk straight toward the lens across a black mirror-plain under a huge red disc; their reflections walk beneath them in the glassy ground, half a beat late. A steel table with a car battery on it slides past. No text. Ends on the opening composition.
+
+11 · THE REDISCOVERY · AM 5382 · AD 1488             → R→L
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, right to left, no cuts, horizon low, upper third open sky through high arched windows. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk right to left through a Renaissance workshop of mirror-script notebooks, brass instruments and a Vitruvian circle glowing faintly in light on the far wall. No readable text. Ends on the opening composition.
+
+12 · THE SUPPRESSION · AM 3847 · 48 BC                → R→L
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, right to left, no cuts, horizon low, upper third open orange night sky. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk right to left along the Alexandria waterfront as the great library burns behind them; ash and loose sheets of paper fall like snow around them. No readable text. Ends on the opening composition.
+
+13 · THE THEOREM · transit                            → R→L
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, right to left, no cuts, horizon very low, upper two-thirds open twilight sky full of slowly brightening stars that form clean geometric lines. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk right to left along a high grass ridge between two valleys. Quiet, resolved. No text. Ends on the opening composition.
+
+14 · THE MODERN VECTORS · AM 5796 · AD 1902 · Phoenix 42 → R→L
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, right to left, no cuts, horizon low, upper third open sky glowing red. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk right to left along the quay of Saint-Pierre, Martinique; Mount Pelée glows above the harbour town, and they pass a squat stone prison cell with one small barred window. No text. Ends on the opening composition.
+
+15 · THE CHAMBER, RETURNED · axis                    → R→L
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, right to left, no cuts. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk right to left through a long red-granite chamber of huge fitted blocks; a lidless granite box glows softly from inside, and the air ripples as if humming. Light from a narrow shaft falls across the top of frame. No text. Ends on the opening composition.
+
+16 · THE DELUGE INVERTED · transit                    → R→L
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, right to left, no cuts, horizon low, upper third open clearing sky with a band of pale gold. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk right to left across a plain as floodwater drains away in silver rivulets, leaving broken clay tablet fragments half-sunk in the mud. No text. Ends on the opening composition.
+
+17 · THE RECORD, DIGITIZED · AM 5920 · AD 2026        → R→L
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, right to left, no cuts, horizon low, upper third open night city sky. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk right to left past ground-floor windows of a modern apartment block; in one dark room a monitor glows beside an ancient clay tablet on the desk. No readable screen text. Ends on the opening composition.
+
+18 · THE CAPSTONE · AM 6000 · AD 2106                 → R→L
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, right to left, no cuts, horizon low, upper third open night sky turning slowly. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk right to left across the Giza plateau; behind them a golden capstone of light descends on a beam onto the pyramid's flat summit. No text. Ends on the opening composition.
+
+19 · THE NAME RETURNS · T−0:00                        → R→L
+Painterly bioluminescent noir, teal shadows, amber edge light, fine grain. Continuous lateral tracking shot, right to left, no cuts, horizon low, upper third open pale sky lit by a sourceless white glow. Natori (auburn hair, charcoal leather jacket, gold throat-glyphs) and Rogue (silver hair, white beard, black coat, blue eye-glow) walk right to left back across the same open grass plain as clip 01, passing the same steel table with the closed folder and an unused car battery; a twelve-fingered handprint fades on a pane of glass standing in the grass. No text. Ends on the opening composition.
+
+---------------------------------------------------------------------
+20 · INSERT · THE SIGIL (Wan 3.0 · text-to-video · 5 s · 480p · 100 cr)
+Slow push-in on the apex of the Great Pyramid at night, polished white casing stone, a carved palindromic number sigil glowing amber in the stone, embers drifting, deep teal shadows, fine film grain, painterly bioluminescent noir. No people. Silence.
+(Use it under the end plate, or as the reel's title open.)
+
+---------------------------------------------------------------------
+AFTER YOU FIRE
+Drop the 19 clips in Desktop\PlanetWalker (or tell me they're in OpenArt).
+I re-cut THE DEPOSITION v2 on them with zero further credits.

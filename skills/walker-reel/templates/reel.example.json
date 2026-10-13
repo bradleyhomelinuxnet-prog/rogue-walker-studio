@@ -1,0 +1,121 @@
+{
+ "title": "MY WALKER REEL",
+ "output": "my_reel",
+ "clip_frames": 330,
+ "plate_frames": 177,
+ "speakers": {
+  "A": "#F0C89E",
+  "B": "#9EC9F0"
+ },
+ "bed": "wind",
+ "bell": "synth",
+ "open_plate": {
+  "lines": [
+   "SERIES NAME",
+   "EPISODE TITLE",
+   "a one-line promise",
+   "Cast"
+  ],
+  "sizes": [
+   22,
+   54,
+   20,
+   18
+  ]
+ },
+ "end_plate": {
+  "lines": [
+   "END CARD",
+   "a closing line"
+  ],
+  "sizes": [
+   40,
+   22
+  ]
+ },
+ "pairs": {
+  "1": {
+   "src": "walk_01.mp4",
+   "flip": false,
+   "start": 0.4
+  },
+  "2": {
+   "src": "walk_02.mp4",
+   "flip": false,
+   "start": 0.4
+  }
+ },
+ "axis": {
+  "src": "front_facing.mp4",
+  "start": 0.5,
+  "reflection": true,
+  "delay_frames": 12
+ },
+ "clips": [
+  {
+   "n": 1,
+   "title": "OPENING",
+   "era": "YEAR \u00b7 PLACE",
+   "lines": [
+    {
+     "who": "A",
+     "text": "First line."
+    },
+    {
+     "who": "B",
+     "text": "Reply."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "RISING",
+   "era": "YEAR \u00b7 PLACE",
+   "lines": [
+    {
+     "who": "A",
+     "text": "Second beat."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "THE AXIS",
+   "era": "CENTRE",
+   "log": "ON-SCREEN LOG FLASH",
+   "lines": [
+    {
+     "who": "B",
+     "text": "The turn."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "RETURNING",
+   "era": "YEAR \u00b7 PLACE",
+   "lines": [
+    {
+     "who": "A",
+     "text": "Mirror of beat two."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "CLOSING",
+   "era": "YEAR \u00b7 PLACE",
+   "lines": [
+    {
+     "who": "A",
+     "text": "Mirror of the opening."
+    },
+    {
+     "who": "B",
+     "text": "The unsaid line.",
+     "mirror": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+# media and renders never ship
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.m4a
+build/
+src/
+vo/
+**/_txt/
+transcripts.json
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# dist zips are attached to releases, not committed
+dist/*.skill
+dist/*.zip
