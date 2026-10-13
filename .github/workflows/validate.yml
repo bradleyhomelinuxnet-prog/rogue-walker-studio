@@ -1,0 +1,29 @@
+name: validate
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Validate skills
+        run: python3 scripts/validate.py
+      - name: Smoke-test the walker-reel engine (synthetic clips, 3-clip mirror rig)
+        run: |
+          mkdir -p ci/src && cd ci
+          ffmpeg -v error -f lavfi -i testsrc2=size=640x360:rate=24:duration=6 -f lavfi -i sine=frequency=220:duration=6 -shortest src/walk.mp4
+          ffmpeg -v error -f lavfi -i smptebars=size=640x360:rate=24:duration=6 -f lavfi -i sine=frequency=330:duration=6 -shortest src/front.mp4
+          cat > reel.json <<'J'
+          {"title":"ci","output":"ci_reel","clip_frames":72,"plate_frames":24,
+           "open_plate":{"lines":["CI"],"sizes":[40]},"end_plate":{"lines":["OK"],"sizes":[40]},
+           "pairs":{"1":{"src":"walk.mp4","start":0.2}},"axis":{"src":"front.mp4","start":0.2},
+           "clips":[{"n":1,"title":"A","era":"1","lines":[{"who":"A","text":"one"}]},
+                    {"n":2,"title":"B","era":"2","lines":[{"who":"B","text":"two"}]},
+                    {"n":3,"title":"C","era":"3","lines":[{"who":"A","text":"three"},{"who":"B","text":"unsaid","mirror":true}]}]}
+          J
+          python3 ../skills/walker-reel/scripts/walker_reel.py reel.json | tee out.txt
+          grep -q "frames=264 OK" out.txt

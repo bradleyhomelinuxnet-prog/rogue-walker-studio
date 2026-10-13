@@ -1,30 +1,30 @@
-Rogue Walker Studio — Commercial License
+Rogue Walker Studio — Source-Available License
 Copyright (c) 2026 Hollywood Rogue Ventures LLC. All rights reserved.
 
-This software, its skills, scripts, templates and documentation (the "Software") are
-proprietary. A license to use the Software is granted only to a person or organization
-that obtained it from Hollywood Rogue Ventures LLC or an authorized reseller (the "Licensee").
+The source is public so you can read it, learn from it and use it.
 
-The Licensee may:
-  - install and use the Software on any number of machines they own or control;
-  - modify it for their own use;
-  - use anything they create with it (videos, captions, reels) for any purpose, commercial
-    or not, with no attribution required.
+You MAY, free of charge:
+  - install and use the skills, scripts, templates and docs (the "Software") on machines you
+    own or control, for personal or commercial work;
+  - modify the Software for your own use;
+  - use anything you make with it (videos, captions, reels) for any purpose, with no attribution.
 
-The Licensee may not:
-  - redistribute, resell, sublicense or publish the Software or a modified version of it,
-    in whole or in part, including as part of another skill, plugin or template pack;
+You may NOT:
+  - redistribute, resell, sublicense or republish the Software or a modified version of it, in
+    whole or in part, including inside another skill, plugin, template pack or paid course;
+  - offer the Software itself as a paid product or hosted service;
   - remove this notice.
 
-Third-party software referenced by the Software (ffmpeg, FilmCraft, faster-whisper, Remotion,
-and any AI generation platform) is NOT included and is governed by its own license. FilmCraft
-and ArtCraft are products and trademarks of the ArtCraft Team; this project is an independent,
-unofficial integration and is not affiliated with or endorsed by them.
+Setup, customization and support are available from Hollywood Rogue Ventures LLC:
+https://Rogue-Ventures-Portfolio.com
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
-BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO
-EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE
-SOFTWARE OR ITS USE. You are responsible for holding rights to any footage, voices and music
-you process with it, and for any generation credits you choose to spend.
+Third-party software referenced by the Software (ffmpeg, FilmCraft, ArtCraft, faster-whisper,
+Remotion, and any AI generation platform) is NOT included and is governed by its own license.
+FilmCraft and ArtCraft are projects and trademarks of the ArtCraft Team; this project is an
+independent, unofficial integration and is not affiliated with or endorsed by them.
 
-Licensing questions: Hollywood Rogue Ventures LLC · https://Rogue-Ventures-Portfolio.com
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT
+SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR
+ITS USE. You are responsible for holding rights to any footage, voices and music you process with
+it, and for any generation credits you choose to spend.

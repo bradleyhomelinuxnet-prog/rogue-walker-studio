@@ -1,5 +1,7 @@
 # Rogue Walker Studio
 
+[![validate](https://github.com/bradleyhomelinuxnet-prog/rogue-walker-studio/actions/workflows/validate.yml/badge.svg)](https://github.com/bradleyhomelinuxnet-prog/rogue-walker-studio/actions/workflows/validate.yml)
+
 **Six Claude skills for making finished video from footage you already own, plus working bridges to FilmCraft and ArtCraft.**
 
 Generated clips pile up. Most of them never get cut into anything because captioning, timing, mixing and assembly
@@ -28,7 +30,6 @@ loopable reel with exact timing, on your machine, without spending a single gene
 /plugin marketplace add bradleyhomelinuxnet-prog/rogue-walker-studio
 /plugin install rogue-walker-studio@rogue-walker-studio
 ```
-For a private repo, make sure your GitHub credentials can read it, or use the `.skill` files below.
 
 **Claude app (claude.ai / Desktop): upload skills**
 Download the `.skill` files from [`dist/`](dist) (or rebuild them with `scripts/package.sh`) and upload each in
@@ -66,9 +67,17 @@ scripts/package.sh     builds dist/<skill>.skill zips
 scripts/validate.py    checks every skill's frontmatter and that the scripts compile
 ```
 
+## Setup & support
+Free to use. If you want it working on your machine without the fiddling, I offer:
+- **Setup session**: installed, connected to FilmCraft and ArtCraft, with a first reel cut from your own clips.
+- **Custom look**: your brand's plates, captions and sound bed built into the engine.
+- **Done-for-you reels**: send clips and a script, get a finished reel back.
+
+Book through **[Rogue-Ventures-Portfolio.com](https://rogue-ventures-portfolio.com/)**.
+
 ## License
-Commercial license, see [LICENSE](LICENSE). Purchasers may use and modify the kit freely and own everything they
-make with it. Redistribution is not permitted. FilmCraft and ArtCraft are trademarks of the ArtCraft Team, and this
-is an independent, unofficial integration.
+Source-available, see [LICENSE](LICENSE). Use it and modify it freely for your own work, and own everything you make.
+Redistributing or reselling the kit itself isn't permitted. FilmCraft and ArtCraft are trademarks of the ArtCraft Team,
+and this is an independent, unofficial integration.
 
 © 2026 Hollywood Rogue Ventures LLC · 19138 · 83191

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.9-r1 — 2026-10-13
+- Public portfolio release: source-available license (free use, no resale), setup & support offer, CI validate workflow
+  with a synthetic walker-reel smoke test.
+
 ## 1.3.9 — 2026-10-13
 - **artcraft-bridge** (new): ArtCraft integration — plan/price → computer-use on the live app with a stop before every
   paid generate → `artcraft_handoff.py` copies renders into a project and writes a FilmCraft import list. Documents

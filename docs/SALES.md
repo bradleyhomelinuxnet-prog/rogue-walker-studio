@@ -1,24 +1,14 @@
-# Listing copy (Gumroad / Lemon Squeezy / your site)
+# Offer: setup and support for Rogue Walker Studio
 
-**Title:** Rogue Walker Studio: Claude skills for finished video from clips you already own
+The kit is free and public (portfolio piece). Revenue comes from services around it.
 
-**One-liner:** Turn a folder of AI clips and a script into a captioned, voiced, loopable reel, with exact timing and
-zero generation credits. Includes working Claude bridges to FilmCraft and ArtCraft.
+| Offer | What the client gets | Suggested price |
+|---|---|---|
+| **Setup session** (60 min, screen share) | Kit installed, FilmCraft MCP connected, ArtCraft hand-off pointed at their folder, first walker reel cut from their own clips | $138 |
+| **Custom look** | Their plates, caption styling, palette and sound bed built into a reel config they keep | $276 |
+| **Done-for-you reel** | They send clips and a script; they get a finished, captioned (optionally voiced) reel at a signature length | from $190 per reel |
+| **Monthly support** | Priority fixes, new looks, help with new FilmCraft/ArtCraft releases | $69 / month |
 
-**What you get**
-- 6 Claude skills (Claude Code plugin + uploadable .skill files)
-- Walker-reel engine: palindromic mirror rig, reflected axis shot, loop-back dissolve, speaker-coloured captions,
-  plates, wind bed, synthesized bell, per-line voice sync, frame-exact output
-- Clip captioner: transcribe, ID speakers by pitch, burn captions and chyrons
-- FilmCraft MCP kit: Desktop/Code configs, headless and live-bridge modes, recipes, a control-channel client
-- ArtCraft bridge: plan, drive the app safely, auto-collect renders into your edit
-- Budget planner: spend any credit balance to exactly zero, with a paste-ready prompt sheet
-- A full 19-clip example reel config
+**Pitch (one line):** Sitting on hundreds of AI clips? I turn them into finished, captioned, voiced films with Claude, and I can set the same pipeline up for you.
 
-**Who it's for:** AI filmmakers, YouTube creators and storytellers sitting on hundreds of generated clips.
-
-**Requirements:** ffmpeg, Python 3.8+, and Claude (Code, Desktop or claude.ai with skills). FilmCraft is optional and free.
-
-**Price suggestions:** $19 (skills) · $38 (skills + 30-min setup call) · $138 (studio license, 5 seats)
-
-**Not affiliated** with ArtCraft / FilmCraft or any AI platform. You bring your own footage, voices and music rights.
+**Where to post:** the repo README (done), your profile page (done), Rogue-Ventures-Portfolio.com, LinkedIn, the FilmCraft/ArtCraft Discord (showcase channel only, with no spam), and your YouTube channel descriptions.
