@@ -1,0 +1,376 @@
+{
+ "name": "Live on Time - The Engineered Sky",
+ "output": "out/LiveOnTime_EngineeredSky_138_v1.mp4",
+ "format": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 24
+ },
+ "clips": [
+  {
+   "path": "clips/021_hf_20260929_021809.mp4",
+   "in": 0.5,
+   "duration": 6.0
+  },
+  {
+   "path": "clips/117_hf_20260925_035503.mp4",
+   "in": 3,
+   "duration": 7.5929
+  },
+  {
+   "path": "clips/114_hf_20260925_052421.mp4",
+   "in": 3,
+   "duration": 7.5929
+  },
+  {
+   "path": "clips/058_hf_20260926_000025.mp4",
+   "in": 3,
+   "duration": 7.5929
+  },
+  {
+   "path": "clips/099_hf_20260925_083958.mp4",
+   "in": 3,
+   "duration": 7.5929
+  },
+  {
+   "path": "clips/027_hf_20260929_015628.mp4",
+   "in": 0,
+   "duration": 5.9
+  },
+  {
+   "path": "clips/110_hf_20260925_061336.mp4",
+   "in": 3,
+   "duration": 7.5929
+  },
+  {
+   "path": "clips/105_hf_20260925_073346.mp4",
+   "in": 3,
+   "duration": 7.5929
+  },
+  {
+   "path": "clips/056_hf_20260926_004344.mp4",
+   "in": 3,
+   "duration": 7.5929
+  },
+  {
+   "path": "clips/026_hf_20260929_020420.mp4",
+   "in": 0,
+   "duration": 6.9
+  },
+  {
+   "path": "clips/090_hf_20260925_111418.mp4",
+   "in": 3,
+   "duration": 7.5929
+  },
+  {
+   "path": "clips/066_hf_20260925_175950.mp4",
+   "in": 3,
+   "duration": 7.5929
+  },
+  {
+   "path": "clips/120_hf_20260908_004923.mp4",
+   "in": 3,
+   "duration": 7.5929
+  },
+  {
+   "path": "clips/111_hf_20260925_060351.mp4",
+   "in": 3,
+   "duration": 7.5929
+  },
+  {
+   "path": "clips/085_hf_20260925_124317.mp4",
+   "in": 3,
+   "duration": 7.5929
+  },
+  {
+   "path": "clips/101_hf_20260925_081430.mp4",
+   "in": 3,
+   "duration": 7.5929
+  },
+  {
+   "path": "clips/112_hf_20260925_055255.mp4",
+   "in": 3,
+   "duration": 7.5929
+  },
+  {
+   "path": "clips/017_hf_20260929_022437.mp4",
+   "in": 0,
+   "duration": 6.9
+  },
+  {
+   "path": "clips/021_hf_20260929_021809.mp4",
+   "in": 0.5,
+   "duration": 6.0
+  }
+ ],
+ "transition": {
+  "type": "cross_dissolve",
+  "frames": 12
+ },
+ "fade": {
+  "in_frames": 24,
+  "out_frames": 36
+ },
+ "title": {
+  "text": "LIVE ON TIME",
+  "sub": "The Engineered Sky",
+  "at": 0,
+  "seconds": 3.5,
+  "center": true
+ },
+ "speakers": {
+  "NATORI": "#F0C89E",
+  "ROGUE": "#9EC9F0"
+ },
+ "style": {
+  "position": "top",
+  "font": "Georgia",
+  "font_style": "Bold",
+  "size": 52,
+  "color": "#E8D7B0"
+ },
+ "captions": [
+  {
+   "at": 0.5,
+   "dur": 2.48,
+   "speaker": "NATORI",
+   "text": "History didn't evolve.\nIt was switched on."
+  },
+  {
+   "at": 3.12,
+   "dur": 2.24,
+   "speaker": "ROGUE",
+   "text": "Nemesis. Day zero of the cage."
+  },
+  {
+   "at": 6.5,
+   "dur": 3.245,
+   "speaker": "NATORI",
+   "text": "Six hundred years,\nand Earth is captured,"
+  },
+  {
+   "at": 9.948,
+   "dur": 2.941,
+   "speaker": "ROGUE",
+   "text": "locked to a sun that isn't ours."
+  },
+  {
+   "at": 14.093,
+   "dur": 3.245,
+   "speaker": "NATORI",
+   "text": "They hung the Moon\nlike a camera."
+  },
+  {
+   "at": 17.541,
+   "dur": 2.941,
+   "speaker": "ROGUE",
+   "text": "An eye for the inmates below."
+  },
+  {
+   "at": 21.686,
+   "dur": 3.245,
+   "speaker": "NATORI",
+   "text": "Now the engineers\nwalk among us."
+  },
+  {
+   "at": 25.134,
+   "dur": 2.941,
+   "speaker": "ROGUE",
+   "text": "And the day-count begins. Tick."
+  },
+  {
+   "at": 29.279,
+   "dur": 3.245,
+   "speaker": "NATORI",
+   "text": "Every stone is\na line of code."
+  },
+  {
+   "at": 32.727,
+   "dur": 2.941,
+   "speaker": "ROGUE",
+   "text": "Compliance, carved in granite."
+  },
+  {
+   "at": 36.872,
+   "dur": 2.432,
+   "speaker": "NATORI",
+   "text": "The flood wasn't wrath.\nIt was maintenance."
+  },
+  {
+   "at": 39.44,
+   "dur": 2.196,
+   "speaker": "ROGUE",
+   "text": "Cache cleared. Survivors rebooted."
+  },
+  {
+   "at": 42.772,
+   "dur": 3.245,
+   "speaker": "NATORI",
+   "text": "They woke\nremembering nothing."
+  },
+  {
+   "at": 46.22,
+   "dur": 2.941,
+   "speaker": "ROGUE",
+   "text": "Amnesia is the default state."
+  },
+  {
+   "at": 50.364,
+   "dur": 3.245,
+   "speaker": "NATORI",
+   "text": "They built a clock\nout of a mountain."
+  },
+  {
+   "at": 53.813,
+   "dur": 2.941,
+   "speaker": "ROGUE",
+   "text": "To time the thing that burns."
+  },
+  {
+   "at": 57.957,
+   "dur": 3.245,
+   "speaker": "NATORI",
+   "text": "Rectilinear. Exact.\nOne hundred thirty-eight."
+  },
+  {
+   "at": 61.406,
+   "dur": 2.941,
+   "speaker": "ROGUE",
+   "text": "The number that keeps returning."
+  },
+  {
+   "at": 65.55,
+   "dur": 2.912,
+   "speaker": "NATORI",
+   "text": "The Phoenix runs\nevery 138 years."
+  },
+  {
+   "at": 68.638,
+   "dur": 2.636,
+   "speaker": "ROGUE",
+   "text": "The clock already knows your name."
+  },
+  {
+   "at": 72.45,
+   "dur": 3.245,
+   "speaker": "NATORI",
+   "text": "Six hundred and 138,\ninterlocking,"
+  },
+  {
+   "at": 75.899,
+   "dur": 2.941,
+   "speaker": "ROGUE",
+   "text": "two algorithms, one countdown."
+  },
+  {
+   "at": 80.043,
+   "dur": 3.245,
+   "speaker": "NATORI",
+   "text": "The last six-hundred-year\ngear closed in 1962."
+  },
+  {
+   "at": 83.492,
+   "dur": 2.941,
+   "speaker": "ROGUE",
+   "text": "The last turn before ours."
+  },
+  {
+   "at": 87.636,
+   "dur": 3.245,
+   "speaker": "NATORI",
+   "text": "The dials are stacking\non our decade."
+  },
+  {
+   "at": 91.084,
+   "dur": 2.941,
+   "speaker": "ROGUE",
+   "text": "We are standing on the node."
+  },
+  {
+   "at": 95.229,
+   "dur": 3.245,
+   "speaker": "NATORI",
+   "text": "Nineteen beats\nto the next interface."
+  },
+  {
+   "at": 98.677,
+   "dur": 2.941,
+   "speaker": "ROGUE",
+   "text": "Count them. Out loud."
+  },
+  {
+   "at": 102.822,
+   "dur": 3.245,
+   "speaker": "NATORI",
+   "text": "May 2040. The sun darkens.\nThe crust slips."
+  },
+  {
+   "at": 106.27,
+   "dur": 2.941,
+   "speaker": "ROGUE",
+   "text": "The oceans leave their basins."
+  },
+  {
+   "at": 110.415,
+   "dur": 3.245,
+   "speaker": "NATORI",
+   "text": "Then Nemesis X,\nfor whatever's left."
+  },
+  {
+   "at": 113.863,
+   "dur": 2.941,
+   "speaker": "ROGUE",
+   "text": "The cull is a separate protocol."
+  },
+  {
+   "at": 118.008,
+   "dur": 3.245,
+   "speaker": "NATORI",
+   "text": "The endpoint isn't a fear.\nIt's a figure."
+  },
+  {
+   "at": 121.456,
+   "dur": 2.941,
+   "speaker": "ROGUE",
+   "text": "Fixed. Scheduled. Patient."
+  },
+  {
+   "at": 125.601,
+   "dur": 2.912,
+   "speaker": "NATORI",
+   "text": "2178. The containment\nfinally fails."
+  },
+  {
+   "at": 128.689,
+   "dur": 2.636,
+   "speaker": "ROGUE",
+   "text": "The cage opens. Same as it closed."
+  },
+  {
+   "at": 132.501,
+   "dur": 2.48,
+   "speaker": "NATORI",
+   "text": "5239. 2178.\nRead the same, returning."
+  },
+  {
+   "at": 135.121,
+   "dur": 2.24,
+   "speaker": "ROGUE",
+   "text": "Live on time. Emit no evil."
+  }
+ ],
+ "audio": [
+  {
+   "path": "audio/bed.wav",
+   "track": "A2",
+   "db": -6
+  }
+ ],
+ "mute_clip_audio": true,
+ "loudness": -16,
+ "checks": [
+  0.5,
+  62.0,
+  137.0
+ ]
+}

@@ -2,7 +2,7 @@
 
 [![validate](https://github.com/bradleyhomelinuxnet-prog/rogue-walker-studio/actions/workflows/validate.yml/badge.svg)](https://github.com/bradleyhomelinuxnet-prog/rogue-walker-studio/actions/workflows/validate.yml)
 
-**Six Claude skills for making finished video from footage you already own, plus working bridges to FilmCraft and ArtCraft.**
+**Seven Claude skills for making finished video from footage you already own, plus working bridges to FilmCraft and ArtCraft.**
 
 Generated clips pile up. Most of them never get cut into anything because captioning, timing, mixing and assembly
 are slow. This kit lets Claude do that work: it turns a folder of clips and a script into a captioned, voiced,
@@ -10,6 +10,7 @@ loopable reel with exact timing, on your machine, without spending a single gene
 
 | Skill | What it does |
 |---|---|
+| **rogue-ai** | The director: one pipeline from beats to finished film. Writes ArtCraft shot sheets with caption-safe framing (you click Generate), collects the renders, then builds a real FilmCraft timeline **headless from the shell** with `rogue_cut.py`: dissolves, title, top-center speaker-coloured captions, audio bed, loudness-normalised export, and check frames it looks at itself. No MCP setup needed. |
 | **walker-reel** | Builds a palindromic "endless walker" reel from existing clips: a mirror rig (walk up, axis, walk back down), a reflected centre shot, a loop-back dissolve, captions with speaker colours, title and end plates, a soft wind bed, a synthesized bell, and optional per-line voice sync. One JSON config, one command, frame-exact output. |
 | **walk-clip-captioner** | Captions clips from their *own* dialogue: Whisper transcript, pitch-based speaker ID, burned captions and era chyrons, original audio kept. |
 | **house-looks** | Two production-tested caption and plate looks (Ledger Walk, Proof) so a series stays consistent. |
@@ -52,6 +53,15 @@ python3 skills/walker-reel/scripts/walker_reel.py my_reel/reel.json
 # → my_reel/my_reel_master.mp4 and my_reel_web.mp4, frame count verified
 ```
 Or just ask Claude: *"Make a walker reel from the clips in src/ using this script."*
+
+## Quick start: Rogue AI (ArtCraft → FilmCraft)
+```
+cp skills/rogue-ai/templates/cutsheet.example.json my_film/cut.json
+# put clips in my_film/src/, edit cut.json (clips, captions, title, audio)
+python skills/rogue-ai/scripts/rogue_cut.py my_film/cut.json
+# → my_film/out/*.mp4 + .fcproj (open in FilmCraft) + check_frames/
+```
+Or just ask Claude: *"Make a flick from these clips, Natori and Rogue captions top-center, cut it in FilmCraft."*
 
 ## Quick start: FilmCraft
 1. Download FilmCraft. Point `skills/filmcraft-mcp/configs/claude_desktop_config.bridge.json` at your `filmcraft-cli`.

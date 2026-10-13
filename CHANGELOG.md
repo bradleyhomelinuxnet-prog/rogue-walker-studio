@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.4.0 — 2026-10-13
+- **rogue-ai** (new): the director skill tying ArtCraft and FilmCraft together: beats → ArtCraft shot sheets
+  (caption-safe top third, owner clicks Generate) → hand-off → `rogue_cut.py` builds a FilmCraft project headless via
+  `filmcraft-cli` (no MCP needed): clips scaled to frame, dissolves and fades, title/subtitle, top- or bottom-center
+  captions coloured per speaker, SRT burn-in, audio beds with gain, loudness-normalised export, check frames.
+  Finds the newest installed filmcraft-cli automatically. Tested on FilmCraft 0.7.2 (Windows, portable).
+  First real cut: *The Engineered Sky*, 19 beats from existing PhoenixClips, exactly 138.00 s, −16.0 LUFS,
+  built in about 2.5 minutes. Hardening from it: retry on OneDrive/Dropbox save locks, a dark caption outline by default
+  (pale speaker colours stay readable over bright sky), and check frames spread across the whole timeline.
+
 ## 1.3.9-r1 — 2026-10-13
 - Public portfolio release: source-available license (free use, no resale), setup & support offer, CI validate workflow
   with a synthetic walker-reel smoke test.

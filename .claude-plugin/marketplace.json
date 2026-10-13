@@ -5,8 +5,8 @@
     {
       "name": "rogue-walker-studio",
       "source": "./",
-      "description": "Walker reels from footage you own, clip captioning, house looks, FilmCraft MCP, ArtCraft bridge and credit-budget planning.",
-      "version": "1.3.9"
+      "description": "Rogue AI director (ArtCraft → FilmCraft), walker reels from footage you own, clip captioning, house looks, FilmCraft MCP, ArtCraft bridge and credit-budget planning.",
+      "version": "1.4.0"
     }
   ]
 }
