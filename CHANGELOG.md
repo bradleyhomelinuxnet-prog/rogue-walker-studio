@@ -4,6 +4,8 @@
 - **artcraft-bridge** (new): ArtCraft integration — plan/price → computer-use on the live app with a stop before every
   paid generate → `artcraft_handoff.py` copies renders into a project and writes a FilmCraft import list. Documents
   that ArtCraft has no MCP/CLI yet and how one could be added.
+- artcraft-bridge: documents ArtCraft's data root (`~/Artcraft/downloads` = renders; never touch `credentials/`),
+  and the WebView2 masking limit for remote computer use (window screenshots black).
 
 ## 1.3.8 — 2026-10-13 (first release)
 - **walker-reel**: config-driven palindromic walker reel engine (mirror rig, axis reflection, loop-back dissolve,

@@ -25,6 +25,13 @@ def candidates():
              os.environ.get('APPDATA', ''), os.environ.get('LOCALAPPDATA', ''),
              os.path.join(home, 'Library', 'Application Support'), os.path.join(home, '.local', 'share')]
     hits = []
+    # ArtCraft's own data root (Windows: C:\\Users\\<you>\\Artcraft) — renders land in downloads/ and assets/.
+    # Never read its credentials/ or settings/ folders.
+    for n in ('Artcraft', 'ArtCraft'):
+        for sub in ('downloads', 'assets'):
+            p = os.path.join(home, n, sub)
+            if os.path.isdir(p) and p not in hits:
+                hits.append(p)
     for r in roots:
         for n in names:
             p = os.path.join(r, n)

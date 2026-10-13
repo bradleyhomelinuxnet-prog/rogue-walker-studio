@@ -20,7 +20,12 @@ own price list), solve the mix, and write a paste-ready prompt sheet sized to Ar
 reference images, aspect, duration). Repeat the style sentence and character descriptors verbatim in every prompt.
 
 ## Route 2: computer use on the live app (watchable)
-For sessions with desktop control of the PC:
+**Known limit (Windows):** ArtCraft is a Tauri app whose UI is drawn by Microsoft **WebView2**. Remote/cloud
+computer-use sessions mask WebView2 as an unlisted process, so ArtCraft's window screenshots as a **solid black
+rectangle** and clicks don't land. If that happens, stop; use Route 1 + Route 3, or run computer use from a chat in
+the Claude desktop app on that PC (local sessions may not mask it). Don't keep retrying.
+
+For sessions where the window is visible:
 1. Load the computer-use guidance and request access to the **installed** ArtCraft app only. If a portable copy and
    an installed copy both exist, grant the one actually on screen.
 2. Screenshot first and read the current panel. Never assume the layout, because ArtCraft is evolving fast.
@@ -36,6 +41,10 @@ Never enter passwords, API keys or payment details into ArtCraft on the user's b
 python3 scripts/artcraft_handoff.py --from "<ArtCraft output folder>" --to my_reel/src --since 2026-10-13
 python3 scripts/artcraft_handoff.py --discover          # list likely ArtCraft output folders on this machine
 ```
+**Where ArtCraft keeps files (Windows):** `C:\Users\<you>\Artcraft\` holds `downloads\` (finished renders),
+`assets\`, plus `credentials\`, `settings\`, `state\`, `temp\`. Point `--from` at `downloads` (and `assets` if needed).
+**Never read or copy `credentials\` or `settings\`.** If you need folder access, ask for only those two subfolders.
+
 Then either:
 - **walker-reel**: reference the copied files in `reel.json` `pairs` / `axis` and render; or
 - **filmcraft-mcp**: `media_import` with the contents of `filmcraft_import.txt`, then assemble on the timeline.
