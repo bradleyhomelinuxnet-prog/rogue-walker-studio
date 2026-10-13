@@ -1,6 +1,6 @@
 # Rogue Walker Studio
 
-**Five Claude skills for making finished video from footage you already own, plus a working bridge to FilmCraft.**
+**Six Claude skills for making finished video from footage you already own, plus working bridges to FilmCraft and ArtCraft.**
 
 Generated clips pile up. Most of them never get cut into anything because captioning, timing, mixing and assembly
 are slow. This kit lets Claude do that work: it turns a folder of clips and a script into a captioned, voiced,
@@ -12,6 +12,7 @@ loopable reel with exact timing, on your machine, without spending a single gene
 | **walk-clip-captioner** | Captions clips from their *own* dialogue: Whisper transcript, pitch-based speaker ID, burned captions and era chyrons, original audio kept. |
 | **house-looks** | Two production-tested caption and plate looks (Ledger Walk, Proof) so a series stays consistent. |
 | **filmcraft-mcp** | Connects Claude to [FilmCraft](https://getartcraft.com/apps/filmcraft), the free open-source NLE: MCP setup for Claude Desktop and Claude Code, headless and live-bridge modes, editing recipes, troubleshooting, and a control-channel client for sessions where the MCP tools aren't visible. |
+| **artcraft-bridge** | Works with [ArtCraft](https://github.com/storytold/artcraft), the open-source AI image and video IDE. Plan and price generations, drive the live app with computer use (stopping before every paid click), and auto-collect its renders into FilmCraft or a walker reel. |
 | **gen-budget-planner** | Prices every generation option first (free cost checks), solves a mix that spends a credit balance to exactly zero, and writes the paste-ready prompt sheet. Never spends without a yes. |
 
 > *The Deposition*, the included example, is a 19-clip, 276-second (138 × 2) reel: nine walks up, a mirrored axis

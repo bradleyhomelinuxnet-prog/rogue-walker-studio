@@ -1,7 +1,7 @@
 {
   "name": "rogue-walker-studio",
-  "version": "1.3.8",
-  "description": "Zero-credit walker reels, clip captioning, house looks, FilmCraft MCP integration and generation budget planning for Claude.",
+  "version": "1.3.9",
+  "description": "Zero-credit walker reels, clip captioning, house looks, FilmCraft MCP + ArtCraft bridge and generation budget planning for Claude.",
   "author": { "name": "Hollywood Rogue Ventures LLC", "url": "https://Rogue-Ventures-Portfolio.com" },
   "homepage": "https://github.com/bradleyhomelinuxnet-prog/rogue-walker-studio",
   "license": "SEE LICENSE IN LICENSE",

@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.3.9 — 2026-10-13
+- **artcraft-bridge** (new): ArtCraft integration — plan/price → computer-use on the live app with a stop before every
+  paid generate → `artcraft_handoff.py` copies renders into a project and writes a FilmCraft import list. Documents
+  that ArtCraft has no MCP/CLI yet and how one could be added.
+
 ## 1.3.8 — 2026-10-13 (first release)
 - **walker-reel**: config-driven palindromic walker reel engine (mirror rig, axis reflection, loop-back dissolve,
   ASS captions with speaker colours, mirror-reversed unsaid line, title/end plates, wind bed, synthesized bell,
