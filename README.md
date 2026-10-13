@@ -30,8 +30,8 @@ loopable reel with exact timing, on your machine, without spending a single gene
 For a private repo, make sure your GitHub credentials can read it, or use the `.skill` files below.
 
 **Claude app (claude.ai / Desktop): upload skills**
-Download the `.skill` files from the latest [Release](../../releases) (or build them with `scripts/package.sh`) and
-upload each in **Settings → Capabilities → Skills**.
+Download the `.skill` files from [`dist/`](dist) (or rebuild them with `scripts/package.sh`) and upload each in
+**Settings → Capabilities → Skills**. Tagging `v*` also publishes them as a GitHub Release via `.github/workflows/release.yml`.
 
 **Manual**
 Copy any folder in `skills/` into `~/.claude/skills/`.
